@@ -1,0 +1,27 @@
+{
+  "name": "FCC-image-search",
+  "version": "0.0.1",
+  "description": "Image search abstraction around GCE image search",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "node-fetch": "^1.7.3",
+    "mongodb": "^2.2.x"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "image search"
+  ]
+}

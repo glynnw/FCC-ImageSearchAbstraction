@@ -1,2 +1,8 @@
-# FCC-ImageSearchAbstraction
-FCC Image Search Abstraction Layer API
+Image Search Abstraction FCC
+=========================
+
+Abstraction over imgur image search
+
+
+Made by [Glen W](https://github.com/glynnw)
+-------------------
